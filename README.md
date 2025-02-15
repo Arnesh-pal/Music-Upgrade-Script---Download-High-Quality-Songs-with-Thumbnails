@@ -60,11 +60,11 @@ This script automates upgrading your music collection by downloading higher-qual
 ## Example
 Before:
 ```
-/Users/arneshpal/Music/NewPipe/song1.mp3
+/Users/username/Music/your_dir/song1.mp3
 ```
 After running the script:
 ```
-/Users/arneshpal/Downloads/mm/song1.mp3  (Now higher quality with metadata and thumbnail)
+/Users/username/Downloads/mm/song1.mp3  (Now higher quality with metadata and thumbnail)
 ```
 
 ## License
